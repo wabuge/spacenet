@@ -20,12 +20,12 @@
 		                            <h3>Information Link</h3>
 		                        </div>
 		                        <ul class="footer-links">
-		                            <li><a href="index?page=home">Home</a></li>
+		                            <li><a href="index.php">Home</a></li>
 		                            <li><a href="#">Technology News</a></li>
 		                            <li><a href="#">Data Plans</a></li>
-		                            <li><a href="#">About</a></li>
-		                            <!-- <li><a href="#">Faq</a></li> -->
-		                            <li><a href="#">Contact</a></li>
+		                            <li><a href="about-us.php">About</a></li>
+		                            <li><a href="#">FAQ</a></li> 
+		                            <li><a href="contact-us.php">Contact</a></li>
 		                        </ul>
 		                        <!-- end links -->
 		                    </div>
@@ -40,8 +40,8 @@
 		                        </div>
 
 		                        <ul class="footer-links">
-		                            <li><a href="mailto:#">info@yoursite.com</a></li>
-		                            <li><a href="#">www.yoursite.com</a></li>
+		                            <li><a href="mailto:info@netfix.co.ke">info@netfix.co.ke</a></li>
+		                            <li><a href="www.netfix.co.ke">www.netfix.co.ke</a></li>
 		                            <li>PO Box 30 -80100 Digo Road Mombasa KE </li>
 		                            <li>+254 725-201-768 Or +254 711-806-059</li>
 		                        </ul>
