@@ -9,7 +9,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <!-- Site Metas -->
-<title>Hosting Services | Netfix Telecommunications LTD</title>
+<title>Telecommunication Services | Netfix Telecommunications LTD</title>
 <link rel="icon" type="image/icon" href="images/logo.png" />
 <meta name="keywords" content="">
 <meta name="description" content="">
