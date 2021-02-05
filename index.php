@@ -52,7 +52,8 @@
 		        <nav class="navbar navbar-expand-lg navbar-light bg-light">
 		            <div class="container-fluid">
 		                <a class="navbar-brand" href="index">
-		                    <img src="images/logo-hosting.png" alt="" style="width:50px;height:50px;">
+		                  <!--  <img src="images/logo-hosting.png" alt="" style="width:50px;height:50px;"> -->
+                            <font color="white" > Netfix Telecommunications  </font>
 		                </a>
 		                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbars-host" aria-controls="navbars-rs-food" aria-expanded="false" aria-label="Toggle navigation">
 							<span class="icon-bar"></span>
@@ -103,7 +104,7 @@
                                 <div class="col-md-12 col-sm-12 text-right">
                                     <div class="big-tagline">
                                         <h2><strong>NetFix Communcations </strong> LTD</h2>
-                                        <p class="lead"><small>5g Communications LTD is currently operating within coastal KENYA, We offer fast , cheap internet to our clients who are located anywhere in coastal Kenya.We are WISP , we use Cambium Radio which uses smart beams hence very reliable. </small></p>
+                                        <p class="lead"><small>Netfix Telecommunications LTD is currently operating within coastal KENYA, We offer fast , cheap internet to our clients who are located anywhere in coastal Kenya.We are WISP , we use Cambium Radio which uses smart beams hence very reliable. </small></p>
                                         <a href="hosting.php" class="btn btn-info"><span><font color="white">Our Solutions</font></span></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                                         <a href="contact-us.php" class="btn btn-info"><span><font color ="white" >Contact Us</font></span></a>
                                     </div>

@@ -86,7 +86,7 @@
 
     <div class="all-title-box">
         <div class="container text-center">
-            <h1>Small Enterprise Systems Design<span class="m_1">5g Communications has expertise in Developing softwares and Websites </span></h1>
+            <h1>Small Enterprise Systems Design<span class="m_1">Netfix Telecommunications has expertise in Developing softwares and Websites </span></h1>
         </div>
     </div>
 

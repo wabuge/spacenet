@@ -94,7 +94,7 @@
 
     <div class="all-title-box">
         <div class="container text-center">
-            <h1>BTS CONSTRUCTION AND MAINTENANCE<span class="m_1">5g communications LTD offers first hand delivery of construction and commisioning of telecommunications towers.</span></h1>
+            <h1>BTS CONSTRUCTION AND MAINTENANCE<span class="m_1"> Netfix Telecommunications LTD offers first hand delivery of construction and commisioning of telecommunications towers.</span></h1>
         </div>
     </div>
 
@@ -525,4 +525,4 @@
 
 </body>
 
-</html>s
+</html>
