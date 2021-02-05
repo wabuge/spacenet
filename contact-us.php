@@ -122,21 +122,20 @@
                                     <textarea class="form-control" name="comments" id="comments" rows="6" placeholder="Give us more details.."></textarea>
                                 </div>
                                 <div class="text-center pd">
-                                    <button type="submit" value="SEND" id="submit" class="btn btn-light btn-radius btn-brd grd1 btn-block">Get a Quote</button>
+                                    <button type="submit" value="SEND" id="submit" class="btn btn-light btn-radius btn-brd grd1 btn-block">Send Request</button>
                                 </div>
                             </fieldset>
                         </form>
                     </div>
                 </div>
                 <!-- end col -->
-                <!--
+          
 				<div class="col-xl-6 col-md-12 col-sm-12">
 					<div class="map-box">
 						<div id="custom-places" class="small-map"></div>
 					</div>
 				</div>
-                end of inactive div
-            -->
+                
 
             </div>
             <!-- end row -->
