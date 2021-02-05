@@ -62,7 +62,7 @@
 		        <div class="container">
 		            <div class="footer-distributed">
 		                <div class="footer-left">
-		                    <p class="footer-company-name">All Rights Reserved. &copy; <?php echo date('Y'); ?> <a href="#">Netfix Telecommunication Ltd</a> &nbsp; Design By : <a href="https://kenoctech.com">Kenoctec Mombasa,KE</a></p>
+		                    <p class="footer-company-name">All Rights Reserved. &copy; <?php echo date('Y'); ?> <a href="#">Netfix Telecommunication Ltd</a> &nbsp; Design By : <a href="https://kenoctech.com" target="_blank">Kenoctech Designs Mombasa,KE</a></p>
 		                </div>
 
 		                <div class="footer-right">
