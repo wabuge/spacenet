@@ -53,7 +53,7 @@
 		            <div class="container-fluid">
 		                <a class="navbar-brand" href="index">
 		                  <!--  <img src="images/logo-hosting.png" alt="" style="width:50px;height:50px;"> -->
-                            <font color="white" > NetFix Telecommunications  </font>
+                            <font color="white"> NetFix Telecommunications  </font>
 		                </a>
 		                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbars-host" aria-controls="navbars-rs-food" aria-expanded="false" aria-label="Toggle navigation">
 							<span class="icon-bar"></span>
@@ -250,13 +250,15 @@
                         <h4>NetFix Telecommunication LTD</h4>
                         <h2>TOWER CONSTRUCTION AND COMMISIONING</h2>
                         <p>We have a Technical team which is rich of active Engineers and Technicians who are skilled in there roles.The procedures involved in Construction and commisioning of sites includes</p>
-                        <p>Site Acquisition</p>
-                        <p>Site Design</p>
-                        <p>Site Construction</p>
-                        <p>Site Commisioning</p>
-                        <p> We have several projects that we have done. For your quotation and further information contact us via our mail: five@gcomms.com or our tel: +254778352193 </p>
+                        <ul>
+                        <p><li>Site Acquisition</li></p>
+                        <p><li>Site Design</li></p>
+                        <p><li>Site Construction</li></p>
+                        <p><li>Site Commisioning</li></p>
+                    </ul>
+                        <p> We have several projects that we have done. For your quotation and further information contact us via our mail: <strong>info@netfix.co.ke</strong> or our <strong>tel: +254778352193</strong></p>
 
-                        <!--<a href="#" class="hover-btn-new"><span>Learn More</span></a>-->
+                        <a href="telecommunication-services.php" class="hover-btn-new"><span>Learn More</span></a>
                     </div>
                     <!-- end messagebox -->
                 </div>
@@ -285,7 +287,7 @@
 
                         <p> Our Maintenance services includes: Power Backups, Network Optimization, Tower Stability check, Alarm system, and General cleaning of the Site</p>
 
-                        <!--  <a href="#" class="hover-btn-new"><span>Learn More</span></a> -->
+                        <a href="telecommunication-services.php" class="hover-btn-new"><span>Learn More</span></a>
                     </div>
                     <!-- end messagebox -->
                 </div>
@@ -395,7 +397,7 @@
         <!-- end container -->
     </div>
     <!-- end section -->
-    <!--
+    <!-- PARTNERS
     <div class="parallax section dbcolor">
         <div class="container">
             <div class="row logos">
