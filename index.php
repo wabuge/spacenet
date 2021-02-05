@@ -4,7 +4,7 @@
 		<meta charset="utf-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<title>Netfix Telecommunications LTD</title>
+		<title>NetFix Telecommunications Ltd</title>
 		<link rel="icon" type="image/icon" href="images/logo.png" />
 		<meta name="keywords" content="">
 		<meta name="description" content="">
@@ -53,7 +53,7 @@
 		            <div class="container-fluid">
 		                <a class="navbar-brand" href="index">
 		                  <!--  <img src="images/logo-hosting.png" alt="" style="width:50px;height:50px;"> -->
-                            <font color="white" > Netfix Telecommunications  </font>
+                            <font color="white" > NetFix Telecommunications  </font>
 		                </a>
 		                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbars-host" aria-controls="navbars-rs-food" aria-expanded="false" aria-label="Toggle navigation">
 							<span class="icon-bar"></span>
@@ -69,7 +69,7 @@
 		                            <a class="nav-link dropdown-toggle" href="#" id="dropdown-a" data-toggle="dropdown">Telecom Services</a>
 
 		                            <div class="dropdown-menu" aria-labelledby="dropdown-a">
-		                                <a class="dropdown-item" href="hosting.php">Telecom Services</a>
+		                                <a class="dropdown-item" href="telecommunication-services.php">Telecom Services</a>
 		                                <!--
 										<a class="dropdown-item" href="hosting.html">Tower Construction  </a>
 										<a class="dropdown-item" href="hosting.html">C</a>
@@ -78,7 +78,7 @@
 									</div>
 								-->
 		                        </li>
-		                        <li class="nav-item"><a class="nav-link" href="domain.php">I.T</a></li>
+		                        <li class="nav-item"><a class="nav-link" href="it-services.php">I.T</a></li>
 		                        <!--<li class="nav-item"><a class="nav-link" href="pricing.html">Pricing</a></li> -->
 		                        <li class="nav-item"><a class="nav-link" href="contact-us.php">Contact</a></li>
 		                    </ul>
@@ -103,7 +103,7 @@
                             <div class="row">
                                 <div class="col-md-12 col-sm-12 text-right">
                                     <div class="big-tagline">
-                                        <h2><strong>NetFix Communcations </strong> LTD</h2>
+                                        <h2><strong>NetFix Communcations </strong> Ltd</h2>
                                         <p class="lead"><small>Netfix Telecommunications LTD is currently operating within coastal KENYA, We offer fast , cheap internet to our clients who are located anywhere in coastal Kenya.We are WISP , we use Cambium Radio which uses smart beams hence very reliable. </small></p>
                                         <a href="hosting.php" class="btn btn-info"><span><font color="white">Our Solutions</font></span></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                                         <a href="contact-us.php" class="btn btn-info"><span><font color ="white" >Contact Us</font></span></a>
