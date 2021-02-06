@@ -5,7 +5,7 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>Contact Us | Netfix Telecommunications LTD</title>
-        <link rel="icon" type="image/icon" href="images/logo.png" />
+        <link rel="icon" type="image/icon" href="images/logo.svg" />
         <meta name="keywords" content="">
         <meta name="description" content="">
         <meta name="author" content="">
@@ -52,7 +52,7 @@
         <nav class="navbar navbar-expand-lg navbar-light bg-light">
             <div class="container-fluid">
                 <a class="navbar-brand" href="home.html">
-                    <img src="images/logo-hosting.png" alt="" style="width:50px;height:50px;">
+                    <img src="images/logo-hosting.svg" alt="" style="width:50px;height:50px;"><font color="white"><STRONG>Netfix Telecommunications LTD</STRONG></font>
                 </a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbars-host" aria-controls="navbars-rs-food" aria-expanded="false" aria-label="Toggle navigation">
 					<span class="icon-bar"></span>
