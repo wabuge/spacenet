@@ -286,7 +286,7 @@
                     <div class="message-box">
                         <h2>CUSTOMER CARE SERVICES</h2>
 
-                        <p>Netfix Telecommunications has active and supportive customer cares who offers 24/7 support</p>
+                        <p><large> Netfix Telecommunications has active and supportive customer cares who offers 24/7 support</p>
 
                         <!--  <a href="#" class="hover-btn-new"><span>Learn More</span></a> -->
                     </div>

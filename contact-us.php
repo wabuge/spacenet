@@ -67,7 +67,7 @@
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" href="#" id="dropdown-a" data-toggle="dropdown">Telecom Services</a>
                             <div class="dropdown-menu" aria-labelledby="dropdown-a">
-                                <a class="dropdown-item" href="hosting.php">Telecom Services</a>
+                                <a class="dropdown-item" href="telecommunication-services.php">Telecom Services</a>
                                 <!--
 								<a class="dropdown-item" href="hosting.html">WordPress Hosting </a>
 								<a class="dropdown-item" href="hosting.html">Cloud Server </a>
@@ -76,7 +76,7 @@
                             -->
                             </div>
                         </li>
-                        <li class="nav-item"><a class="nav-link" href="domain.php">I.T </a></li>
+                        <li class="nav-item"><a class="nav-link" href="it-services.php">I.T </a></li>
                         <!--<li class="nav-item"><a class="nav-link" href="pricing.html">Pricing</a></li> -->
                         <li class="nav-item active"><a class="nav-link" href="<?php echo $_SERVER['PHP_SELF']; ?>">Contact</a></li>
                     </ul>
@@ -122,21 +122,20 @@
                                     <textarea class="form-control" name="comments" id="comments" rows="6" placeholder="Give us more details.."></textarea>
                                 </div>
                                 <div class="text-center pd">
-                                    <button type="submit" value="SEND" id="submit" class="btn btn-light btn-radius btn-brd grd1 btn-block">Get a Quote</button>
+                                    <button type="submit" value="SEND" id="submit" class="btn btn-light btn-radius btn-brd grd1 btn-block">Send Request</button>
                                 </div>
                             </fieldset>
                         </form>
                     </div>
                 </div>
                 <!-- end col -->
-                <!--
+          
 				<div class="col-xl-6 col-md-12 col-sm-12">
 					<div class="map-box">
 						<div id="custom-places" class="small-map"></div>
 					</div>
 				</div>
-                end of inactive div
-            -->
+                
 
             </div>
             <!-- end row -->

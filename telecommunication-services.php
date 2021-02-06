@@ -9,7 +9,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <!-- Site Metas -->
-<title>Hosting Services | Netfix Telecommunications LTD</title>
+<title>Telecommunication Services | Netfix Telecommunications LTD</title>
 <link rel="icon" type="image/icon" href="images/logo.png" />
 <meta name="keywords" content="">
 <meta name="description" content="">
@@ -73,7 +73,7 @@
                         <li class="nav-item dropdown active">
                             <a class="nav-link dropdown-toggle" href="#" id="dropdown-a" data-toggle="dropdown">Telecom Services </a>
                             <div class="dropdown-menu" aria-labelledby="dropdown-a">
-                                <a class="dropdown-item" href="hosting.php">Telecom Services</a>
+                                <a class="dropdown-item" href="<?php echo $_SERVER['PHP_SELF']; ?>">Telecom Services</a>
                                 <!--
 								<a class="dropdown-item" href="hosting.html">WordPress Hosting </a>
 								<a class="dropdown-item" href="hosting.html">Cloud Server </a>
@@ -82,7 +82,7 @@
                         -->
                             </div>
                         </li>
-                        <li class="nav-item"><a class="nav-link" href="domain.php">I.T</a></li>
+                        <li class="nav-item"><a class="nav-link" href="it-services.php">I.T</a></li>
                         <!--<li class="nav-item"><a class="nav-link" href="pricing.html">Pricing</a></li>-->
                         <li class="nav-item"><a class="nav-link" href="contact-us.php">Contact</a></li>
                     </ul>
@@ -94,7 +94,7 @@
 
     <div class="all-title-box">
         <div class="container text-center">
-            <h1>BTS CONSTRUCTION AND MAINTENANCE<span class="m_1">5g communications LTD offers first hand delivery of construction and commisioning of telecommunications towers.</span></h1>
+            <h1>BTS CONSTRUCTION AND MAINTENANCE<span class="m_1"> Netfix Telecommunications LTD offers first hand delivery of construction and commisioning of telecommunications towers.</span></h1>
         </div>
     </div>
 
@@ -525,4 +525,4 @@
 
 </body>
 
-</html>s
+</html>

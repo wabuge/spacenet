@@ -55,7 +55,7 @@
     <header class="top-navbar">
         <nav class="navbar navbar-expand-lg navbar-light bg-light">
             <div class="container-fluid">
-                <a class="navbar-brand" href="home.html">
+                <a class="navbar-brand" href="index.php">
                     <img src="images/logo-hosting.png" alt="" style="width:50px;height:50px;">
                 </a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbars-host" aria-controls="navbars-rs-food" aria-expanded="false" aria-label="Toggle navigation">
@@ -71,7 +71,7 @@
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" href="#" id="dropdown-a" data-toggle="dropdown">Telecom Services</a>
                             <div class="dropdown-menu" aria-labelledby="dropdown-a">
-                                <a class="dropdown-item" href="hosting.php">Telecom Services </a>
+                                <a class="dropdown-item" href="telecommunication-services.php">Telecom Services </a>
                                 <!--
 								<a class="dropdown-item" href="hosting.html">Installations </a>
 								<a class="dropdown-item" href="hosting.html">Technology News </a>
@@ -80,7 +80,7 @@
                             -->
                             </div>
                         </li>
-                        <li class="nav-item"><a class="nav-link" href="domain.php">I.T </a></li>
+                        <li class="nav-item"><a class="nav-link" href="it-services.php">I.T </a></li>
                         <!--<li class="nav-item"><a class="nav-link" href="pricing.html">Pricing</a></li>-->
                         <li class="nav-item"><a class="nav-link" href="contact-us.php">Contact</a></li>
                     </ul>

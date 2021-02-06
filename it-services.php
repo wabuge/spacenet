@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>Our IT | Netfix Telecommunications LTD </title>
+        <title>IT Services | Netfix Telecommunications LTD </title>
         <link rel="icon" type="image/icon" href="images/logo.png" />
         <meta name="keywords" content="">
         <meta name="description" content="">
@@ -67,7 +67,7 @@
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" href="#" id="dropdown-a" data-toggle="dropdown">Telecom Services</a>
                             <div class="dropdown-menu" aria-labelledby="dropdown-a">
-                                <a class="dropdown-item" href="hosting.php">Telecom Services </a>
+                                <a class="dropdown-item" href="telecommunication-services.php">Telecom Services </a>
                                 <!--<a class="dropdown-item" href="hosting.html">WordPress Hosting </a>
 								<a class="dropdown-item" href="hosting.html">Cloud Server </a>
 								<a class="dropdown-item" href="hosting.html">Reseller Package </a>
@@ -86,7 +86,7 @@
 
     <div class="all-title-box">
         <div class="container text-center">
-            <h1>Small Enterprise Systems Design<span class="m_1">5g Communications has expertise in Developing softwares and Websites </span></h1>
+            <h1>Small Enterprise Systems Design<span class="m_1">Netfix Telecommunications has expertise in Developing softwares and Websites </span></h1>
         </div>
     </div>
 
