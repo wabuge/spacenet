@@ -62,7 +62,7 @@
 		                <div class="collapse navbar-collapse" id="navbars-host">
 		                    <ul class="navbar-nav ml-auto">
 		                        <li class="nav-item active"><a class="nav-link" href="<?php echo $_SERVER['PHP_SELF']; ?>">Home</a></li>
-		                        <li class="nav-item"><a class="nav-link" href="about-us.php">About Us</a></li>
+		                        <li class="nav-item"><a class="nav-link" href="about-us.php">Who Are We</a></li>
 		                        <li class="nav-item"><a class="nav-link" href="internet-installation.php">Internet Installation</a></li>
 		                        <li class="nav-item dropdown">
 		                            <a class="nav-link dropdown-toggle" href="#" id="dropdown-a" data-toggle="dropdown">Telecom Services</a>
@@ -103,7 +103,7 @@
                                 <div class="col-md-12 col-sm-12 text-right">
                                     <div class="big-tagline">
                                         <h2><strong>NetFix Communcations </strong> LTD</h2>
-                                        <p class="lead"><small>5g Communications LTD is currently operating within coastal KENYA, We offer fast , cheap internet to our clients who are located anywhere in coastal Kenya.We are WISP , we use Cambium Radio which uses smart beams hence very reliable. </small></p>
+                                        <p class="lead"><small>Netfix Telecommunications  a leading ICT Company Based in Kenya providing specialized Integrated ICT Business Solutions and Services to the growing market.  </small></p>
                                         <a href="hosting.php" class="btn btn-info"><span><font color="white">Our Solutions</font></span></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                                         <a href="contact-us.php" class="btn btn-info"><span><font color ="white" >Contact Us</font></span></a>
                                     </div>
@@ -237,8 +237,8 @@
         <div class="container">
             <div class="section-title row text-center">
                 <div class="col-md-8 offset-md-2">
-                    <h3>About</h3>
-                    <p class="lead">Welcome to Netfix Telecommunications LTD. We offer fast realible, cheap internet services to all our clients in Mombasa KE.</p>
+                    <h3>Who Are We</h3>
+                    <p class="lead">Welcome to Netfix Telecommunications LTD. We offer fast and realible internet services to all our clients.</p>
                 </div>
             </div>
             <!-- end title -->
@@ -246,14 +246,18 @@
             <div class="row align-items-center">
                 <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12">
                     <div class="message-box">
-                        <h4>NetFix Telecommunication LTD</h4>
-                        <h2>TOWER CONSTRUCTION AND COMMISIONING</h2>
-                        <p>We have a Technical team which is rich of active Engineers and Technicians who are skilled in there roles.The procedures involved in Construction and commisioning of sites includes</p>
-                        <p>Site Acquisition</p>
-                        <p>Site Design</p>
-                        <p>Site Construction</p>
-                        <p>Site Commisioning</p>
-                        <p> We have several projects that we have done. For your quotation and further information contact us via our mail: five@gcomms.com or our tel: +254778352193 </p>
+                        <h4> <font color=" green" >NetFix Telecommunication LTD</font></h4>
+                        <h2>WHO ARE WE</h2>
+                        <p>We have a Technical team which is rich of active Engineers and Technicians who are skilled in there roles.</p>
+                        <p>High speed internet Connectivity</p>
+                        <p>Project Managemt & General Contractor</p>
+                        <p>Systems Intergration</p>
+                        <p>CCTV Installation</p>
+                        <p>Website/WebApps/Android app Design Development</p>
+                        <p>Managed  Services </p>
+                        <p>ICT infrastructure design and development</p>
+                        <p>Staffing and Consultancy</p>
+                        <p> We have several projects that we have done. For your quotation and further information contact us via our mail: info@netfix.co.ke or our tel:+254 770 222333  </p>
 
                         <!--<a href="#" class="hover-btn-new"><span>Learn More</span></a>-->
                     </div>
@@ -263,7 +267,7 @@
 
                 <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12">
                     <div class="post-media wow fadeIn">
-                        <img src="images/about_02.jpg" alt="" class="img-fluid img-rounded">
+                        <img src="images/about_02.svg" alt="" class="img-fluid img-rounded">
                     </div>
                     <!-- end media -->
                 </div>
@@ -272,7 +276,7 @@
             <div class="row align-items-center">
                 <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12">
                     <div class="post-media wow fadeIn">
-                        <img src="images/about_03.jpg" alt="" class="img-fluid img-rounded">
+                        <img src="images/customercare01.svg" alt="" class="img-fluid img-rounded">
                     </div>
                     <!-- end media -->
                 </div>
@@ -280,9 +284,9 @@
 
                 <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12">
                     <div class="message-box">
-                        <h2>BTS MAINTENACE </h2>
+                        <h2>CUSTOMER CARE SERVICES</h2>
 
-                        <p> Our Maintenance services includes: Power Backups, Network Optimization, Tower Stability check, Alarm system, and General cleaning of the Site</p>
+                        <p>Netfix Telecommunications has active and supportive customer cares who offers 24/7 support</p>
 
                         <!--  <a href="#" class="hover-btn-new"><span>Learn More</span></a> -->
                     </div>

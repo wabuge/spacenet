@@ -59,7 +59,7 @@
 				<div class="collapse navbar-collapse" id="navbars-host">
 					<ul class="navbar-nav ml-auto">
 						<li class="nav-item"><a class="nav-link" href="index.php">Home</a></li>
-						<li class="nav-item"><a class="nav-link" href="about-us.php">About Us</a></li>
+						<li class="nav-item"><a class="nav-link" href="about-us.php">Who Are We</a></li>
 						<li class="nav-item active"><a class="nav-link" href="<?php echo $_SERVER['PHP_SELF']; ?>">Internet Installation </a></li>
 						<li class="nav-item dropdown">
 							<a class="nav-link dropdown-toggle" href="#" id="dropdown-a" data-toggle="dropdown">Telecom Services</a>

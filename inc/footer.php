@@ -7,8 +7,8 @@
 		                        <div class="widget-title">
 		                            <h3>About US</h3>
 		                        </div>
-		                        <p> Netfix Telecommunications LTD is currently operating within Coastal KENYA, We offer fast , cheap internet to our clients who are located anywhere in coastal Kenya.</p>
-		                        <p>We are WISP , we use Cambium Radio which uses smart beams hence very reliable.</p>
+		                        <p> Netfix Telecommunications LTD is currently operating within Coastal KENYA, We offer fast , reliable internet to our clients.</p>
+		                        <p>Our Engineers are highly skilled , efficient and good time managers.</p>
 		                    </div>
 		                    <!-- end clearfix -->
 		                </div>
@@ -40,10 +40,10 @@
 		                        </div>
 
 		                        <ul class="footer-links">
-		                            <li><a href="mailto:#">info@yoursite.com</a></li>
-		                            <li><a href="#">www.yoursite.com</a></li>
-		                            <li>PO Box 30 -80100 Digo Road Mombasa KE </li>
-		                            <li>+254 725-201-768 Or +254 711-806-059</li>
+		                            <li><a href="mailto:#">info@netfix.co.ke</a></li>
+		                            <li><a href="#">www.netfix.co.ke</a></li>
+		                            <li>Physical Adress: Road Mombasa KE </li>
+		                            <li>+254 770 222333</li>
 		                        </ul>
 		                        <!-- end links -->
 		                    </div>

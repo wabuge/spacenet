@@ -62,7 +62,7 @@
                 <div class="collapse navbar-collapse" id="navbars-host">
                     <ul class="navbar-nav ml-auto">
                         <li class="nav-item"><a class="nav-link" href="index.php">Home</a></li>
-                        <li class="nav-item"><a class="nav-link" href="about-us.php">About Us</a></li>
+                        <li class="nav-item"><a class="nav-link" href="about-us.php">Who Are We</a></li>
                         <li class="nav-item"><a class="nav-link" href="internet-installation.php">Internet Installation</a></li>
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" href="#" id="dropdown-a" data-toggle="dropdown">Telecom Services</a>
@@ -88,7 +88,7 @@
 
     <div class="all-title-box">
         <div class="container text-center">
-            <h1>Contact Us<span class="m_1">Email: info@example.com, Tel:+254725201768</span></h1>
+            <h1>Contact Us<span class="m_1">Email: info@netfix.co.ke, Tel:+254 770 222333</span></h1>
         </div>
     </div>
 

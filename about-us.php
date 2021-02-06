@@ -66,7 +66,7 @@
                 <div class="collapse navbar-collapse" id="navbars-host">
                     <ul class="navbar-nav ml-auto">
                         <li class="nav-item"><a class="nav-link" href="index.php">Home</a></li>
-                        <li class="nav-item active"><a class="nav-link" href="about-us.php">About Us</a></li>
+                        <li class="nav-item active"><a class="nav-link" href="about-us.php">Who Are We</a></li>
                         <li class="nav-item"><a class="nav-link" href="internet-installation.php">Internet Installation</a></li>
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" href="#" id="dropdown-a" data-toggle="dropdown">Telecom Services</a>
@@ -92,7 +92,7 @@
 
     <div class="all-title-box">
         <div class="container text-center">
-            <h1>About Us<span class="m_1"> NetFix Telecommunication LTD is a WISP currently operating at the Coastal Kenya. We offer diffrent variaty of services.</span></h1>
+            <h1>Who Are We<span class="m_1"> NetFix Telecommunication LTD is a tech firm currently based in Kenya. We offer diffrent variaty of services in all kinds of business and home environment .</span></h1>
         </div>
     </div>
 
@@ -100,8 +100,8 @@
         <div class="container">
             <div class="section-title row text-center">
                 <div class="col-md-8 offset-md-2">
-                    <h3>About</h3>
-                    <p class="lead">Welcome to LiTE communications. We offer fast realible, cheap internet services to all our clients in Mombasa KE.</p>
+                    <h3>Who Are We</h3>
+                    <p class="lead"><small>Netfix Telecommunications is a leading ICT Company Based in Kenya providing specialized Integrated ICT Business Solutions and Services to the growing market. We specialize in providing innovative and cost-effective ICT solutions to our clients’ business and operational challenges. Our team of professionals provides a full range of services including ICT staffing and consulting, ICT infrastructure design and development, Project management and general contractors, High speed internet supply, Systems integration,CCTV security cameras installation, website design, Apps development and managed services and custom development services to clients across the country.</small></p>
                 </div>
             </div>
             <!-- end title -->
@@ -109,14 +109,14 @@
             <div class="row align-items-center">
                 <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12">
                     <div class="message-box">
-                        <h4>NetFix Telecommunication LTD</h4>
-                        <h2>TOWER CONSTRUCTION AND COMMISIONING</h2>
-                        <p>We have a Technical team which is rich of active Engineers and Technicians who are skilled in there roles.The procedures involved in Construction and commisioning of sites includes</p>
-                        <p>Site Acquisition</p>
-                        <p>Site Design</p>
-                        <p>Site Construction</p>
-                        <p>Site Commisioning</p>
-                        <p> We have several projects that we have done. For your quotation and further information contact us via our mail: lite@comms.com or our tel: +254711806059 </p>
+                        <h4><font color="green"> NetFix Telecommunication LTD</font></h4>
+                        <h2>OUR OBJECTIVES</h2>
+                        <p>We have a Technical team which is rich of active Engineers and Technicians who are skilled in there roles.Our Major Objectives include:</p>
+                        <p>To provide ICT management consultancy services to our clients </p>
+                        <p>To network with Specialists and Experts in order to serve our clients better</p>
+                        <p>To provide support services in management and organizational development of information systems.</p>
+                       
+                        <p> We have several projects that we have done. For your quotation and further information contact us via our mail: info@netfix.co.ke or our tel:+254 770 222333  </p>
 
                         <!--<a href="#" class="hover-btn-new"><span>Learn More</span></a>-->
                     </div>
@@ -126,7 +126,7 @@
 
                 <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12">
                     <div class="post-media wow fadeIn">
-                        <img src="images/about_02.jpg" alt="" class="img-fluid img-rounded">
+                        <img src="images/objective01.svg" alt="" class="img-fluid img-rounded">
                     </div>
                     <!-- end media -->
                 </div>
@@ -135,7 +135,7 @@
             <div class="row align-items-center">
                 <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12">
                     <div class="post-media wow fadeIn">
-                        <img src="images/about_03.jpg" alt="" class="img-fluid img-rounded">
+                        <img src="images/objective02.svg" alt="" class="img-fluid img-rounded">
                     </div>
                     <!-- end media -->
                 </div>
@@ -143,9 +143,9 @@
 
                 <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12">
                     <div class="message-box">
-                        <h2>BTS MAINTENACE </h2>
+                        <h2>OUR MISSION </h2>
 
-                        <p> Our Maintenance services includes: Power Backups, Network Optimization, Tower Stability check, Alarm system, and General cleaning of the Site</p>
+                        <p> Our Mission Our mission is to provide alternative higher value and innovative technological solutions that will guarantee customers value for their money without compromising on quality.</p>
 
                         <!--  <a href="#" class="hover-btn-new"><span>Learn More</span></a> -->
                     </div>
@@ -153,8 +153,31 @@
                 </div>
                 <!-- end col -->
 
+
+
             </div>
             <!-- end row -->
+
+            <div class="row align-items-center">
+                <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12">
+                    <div class="message-box">
+                        <h4><font color="green"> NetFix Telecommunication LTD</font></h4>
+                        <h2>OUR AIM</h2>
+                        <p>To assist our clients improves their efficiency and effectiveness through improved use of ICT resources, diverse ICT solutions for enhanced productivity and performance.</p>
+                        <!--<a href="#" class="hover-btn-new"><span>Learn More</span></a>-->
+                    </div>
+                    <!-- end messagebox -->
+                </div>
+                <!-- end col -->
+
+                <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12">
+                    <div class="post-media wow fadeIn">
+                        <img src="images/aim01.svg" alt="" class="img-fluid img-rounded">
+                    </div>
+                    <!-- end media -->
+                </div>
+                <!-- end col -->
+            </div>
         </div>
         <!-- end container -->
     </div>
