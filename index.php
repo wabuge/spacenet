@@ -1,93 +1,94 @@
 <!DOCTYPE html>
 <html lang="en">
-	<head>
-		<meta charset="utf-8">
-		<meta http-equiv="X-UA-Compatible" content="IE=edge">
-		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<title>Netfix Telecommunications LTD</title>
-		<link rel="icon" type="image/icon" href="images/logo.png" />
-		<meta name="keywords" content="">
-		<meta name="description" content="">
-		<meta name="author" content="">
-		<link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon" />
-		<link rel="apple-touch-icon" href="images/apple-touch-icon.png">
 
-		<!-- Bootstrap CSS -->
-		<link rel="stylesheet" href="css/bootstrap.min.css">
-		<!-- Site CSS -->
-		<link rel="stylesheet" href="style.css">
-		<!-- ALL VERSION CSS -->
-		<link rel="stylesheet" href="css/versions.css">
-		<!-- Responsive CSS -->
-		<link rel="stylesheet" href="css/responsive.css">
-		<!-- Custom CSS -->
-		<link rel="stylesheet" href="css/custom.css">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Netfix Telecommunications LTD</title>
+    <link rel="icon" type="image/icon" href="images/logo.png" />
+    <meta name="keywords" content="">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon" />
+    <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
 
-		<!-- Modernizer for Portfolio -->
-		<script src="js/modernizer.js"></script>
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <!-- Site CSS -->
+    <link rel="stylesheet" href="style.css">
+    <!-- ALL VERSION CSS -->
+    <link rel="stylesheet" href="css/versions.css">
+    <!-- Responsive CSS -->
+    <link rel="stylesheet" href="css/responsive.css">
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="css/custom.css">
 
-		<!--[if lt IE 9]>
+    <!-- Modernizer for Portfolio -->
+    <script src="js/modernizer.js"></script>
+
+    <!--[if lt IE 9]>
 		      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
 		      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
 		    <![endif]-->
 
-	</head>
+</head>
 
-	<?php include 'inc/info-header.php'; ?>
-    
-	<body class="host_version">
+<?php include 'inc/info-header.php'; ?>
 
-		<!-- LOADER -->
-	    <div id="preloader">
-	        <div class="loader-container">
-	            <div class="progress-br float shadow">
-	                <div class="progress__item"></div>
-	            </div>
-	        </div>
-	    </div>
-    	<!-- END LOADER -->
+<body class="host_version">
 
-    	<!-- Start header -->
-		    <header class="top-navbar">
-		        <nav class="navbar navbar-expand-lg navbar-light bg-light">
-		            <div class="container-fluid">
-		                <a class="navbar-brand" href="index">
-		                    <img src="images/logo-hosting.png" alt="" style="width:50px;height:50px;">
-		                </a>
-		                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbars-host" aria-controls="navbars-rs-food" aria-expanded="false" aria-label="Toggle navigation">
-							<span class="icon-bar"></span>
-		                    <span class="icon-bar"></span>
-		                    <span class="icon-bar"></span>
-						</button>
-		                <div class="collapse navbar-collapse" id="navbars-host">
-		                    <ul class="navbar-nav ml-auto">
-		                        <li class="nav-item active"><a class="nav-link" href="<?php echo $_SERVER['PHP_SELF']; ?>">Home</a></li>
-		                        <li class="nav-item"><a class="nav-link" href="about-us.php">Who Are We</a></li>
-		                        <li class="nav-item"><a class="nav-link" href="internet-installation.php">Internet Installation</a></li>
-		                        <li class="nav-item dropdown">
-		                            <a class="nav-link dropdown-toggle" href="#" id="dropdown-a" data-toggle="dropdown">Telecom Services</a>
+    <!-- LOADER -->
+    <div id="preloader">
+        <div class="loader-container">
+            <div class="progress-br float shadow">
+                <div class="progress__item"></div>
+            </div>
+        </div>
+    </div>
+    <!-- END LOADER -->
 
-		                            <div class="dropdown-menu" aria-labelledby="dropdown-a">
-		                                <a class="dropdown-item" href="hosting.php">Telecom Services</a>
-		                                <!--
+    <!-- Start header -->
+    <header class="top-navbar">
+        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+            <div class="container-fluid">
+                <a class="navbar-brand" href="index">
+                    <img src="images/logo-hosting.png" alt="" style="width:50px;height:50px;">
+                </a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbars-host" aria-controls="navbars-rs-food" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbars-host">
+                    <ul class="navbar-nav ml-auto">
+                        <li class="nav-item active"><a class="nav-link" href="<?php echo $_SERVER['PHP_SELF']; ?>">Home</a></li>
+                        <li class="nav-item"><a class="nav-link" href="about-us.php">Who Are We</a></li>
+                        <li class="nav-item"><a class="nav-link" href="internet-installation.php">Internet Installation</a></li>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="dropdown-a" data-toggle="dropdown">Telecom Services</a>
+
+                            <div class="dropdown-menu" aria-labelledby="dropdown-a">
+                                <a class="dropdown-item" href="telecommunication-services.php">Telecom Services</a>
+                                <!--
 										<a class="dropdown-item" href="hosting.html">Tower Construction  </a>
 										<a class="dropdown-item" href="hosting.html">C</a>
 										<a class="dropdown-item" href="hosting.html">Reseller Package </a>
 										<a class="dropdown-item" href="hosting.html">Dedicated Hosting </a>
 									</div>
 								-->
-		                        </li>
-		                        <li class="nav-item"><a class="nav-link" href="domain.php">I.T</a></li>
-		                        <!--<li class="nav-item"><a class="nav-link" href="pricing.html">Pricing</a></li> -->
-		                        <li class="nav-item"><a class="nav-link" href="contact-us.php">Contact</a></li>
-		                    </ul>
-		                    </div>
-		                </div>
-		        </nav>
-		    </header>
-		    <!-- End header -->
+                        </li>
+                        <li class="nav-item"><a class="nav-link" href="domain.php">I.T</a></li>
+                        <!--<li class="nav-item"><a class="nav-link" href="pricing.html">Pricing</a></li> -->
+                        <li class="nav-item"><a class="nav-link" href="contact-us.php">Contact</a></li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <!-- End header -->
 
-		    <div id="carouselExampleControls" class="carousel slide bs-slider box-slider" data-ride="carousel" data-pause="hover" data-interval="false">
+    <div id="carouselExampleControls" class="carousel slide bs-slider box-slider" data-ride="carousel" data-pause="hover" data-interval="false">
         <!-- Indicators -->
         <ol class="carousel-indicators">
             <li data-target="#carouselExampleControls" data-slide-to="0" class="active"></li>
@@ -103,9 +104,13 @@
                                 <div class="col-md-12 col-sm-12 text-right">
                                     <div class="big-tagline">
                                         <h2><strong>NetFix Communcations </strong> LTD</h2>
-                                        <p class="lead"><small>Netfix Telecommunications  a leading ICT Company Based in Kenya providing specialized Integrated ICT Business Solutions and Services to the growing market.  </small></p>
-                                        <a href="hosting.php" class="btn btn-info"><span><font color="white">Our Solutions</font></span></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                                        <a href="contact-us.php" class="btn btn-info"><span><font color ="white" >Contact Us</font></span></a>
+                                        <p class="lead"><small>Netfix Telecommunications a leading ICT Company Based in Kenya providing specialized Integrated ICT Business Solutions and Services to the growing market. </small></p>
+                                        <a href="telecommunication-services.php" class="btn btn-info"><span>
+                                                <font color="white">Our Solutions</font>
+                                            </span></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                        <a href="contact-us.php" class="btn btn-info"><span>
+                                                <font color="white">Contact Us</font>
+                                            </span></a>
                                     </div>
                                 </div>
                             </div>
@@ -125,9 +130,14 @@
                                     <div class="big-tagline">
                                         <h2 data-animation="animated zoomInRight">Telecommunication <strong>Services</strong></h2>
                                         <p class="lead" data-animation="animated fadeInLeft">
-                                            <bold>We offer vast range of of Telecommunication Serives i.e </bold><small> *Site Design* Site construction* BTS intergration* Site Commisioning</small></p>
-                                        <a href="hosting.php" class="btn btn-info"><span><strong><font color="white">Our Solutions</font></strong></span></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                                        <a href="contact.php" class="btn btn-infos"><span><font color="white"> Contact Us</font></span></a>
+                                            <bold>We offer vast range of of Telecommunication Serives i.e </bold><small> *Site Design* Site construction* BTS intergration* Site Commisioning</small>
+                                        </p>
+                                        <a href="telecommunication-services.php class=" btn btn-info"><span><strong>
+                                                    <font color="white">Our Solutions</font>
+                                                </strong></span></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                        <a href="contact-us.php" class="btn btn-infos"><span>
+                                                <font color="white"> Contact Us</font>
+                                            </span></a>
                                     </div>
                                 </div>
                             </div>
@@ -147,8 +157,12 @@
                                     <div class="big-tagline">
                                         <h2 data-animation="animated zoomInRight"><strong>Information Technology </strong> Services</h2>
                                         <p class="lead" data-animation="animated fadeInLeft">For Information Technology Services we are a reliable solution</p>
-                                        <a href="hosting.php" class="btn btn-info"><span><font color ="white">Our Solutions</font></span></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                                        <a href="contact.php" class="btn btn-info"><span><font color ="white">Contact Us</font></span></a>
+                                        <a href="telecommunication-services.php" class="btn btn-info"><span>
+                                                <font color="white">Our Solutions</font>
+                                            </span></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                        <a href="contact-us.php" class="btn btn-info"><span>
+                                                <font color="white">Contact Us</font>
+                                            </span></a>
                                     </div>
                                 </div>
                             </div>
@@ -172,7 +186,7 @@
             </a>
         </div>
     </div>
-     <!--
+    <!--
 	<div id="domain" class="section wb">
         <div class="container">
             <div class="row text-center">
@@ -205,7 +219,8 @@
                             <div class="checkbox checkbox-warning">
                                 <input id="domaininfo" type="checkbox" class="styled">
                                 <label for="domaininfo">.info</label>
-                         --></div>
+                         -->
+    </div>
     </div>
     <!-- end checkdomain-wrapper -->
     <!-- Start of deactivation </form>
@@ -246,7 +261,9 @@
             <div class="row align-items-center">
                 <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12">
                     <div class="message-box">
-                        <h4> <font color=" green" >NetFix Telecommunication LTD</font></h4>
+                        <h4>
+                            <font color=" green">NetFix Telecommunication LTD</font>
+                        </h4>
                         <h2>WHO ARE WE</h2>
                         <p>We have a Technical team which is rich of active Engineers and Technicians who are skilled in there roles.</p>
                         <p>High speed internet Connectivity</p>
@@ -254,10 +271,10 @@
                         <p>Systems Intergration</p>
                         <p>CCTV Installation</p>
                         <p>Website/WebApps/Android app Design Development</p>
-                        <p>Managed  Services </p>
+                        <p>Managed Services </p>
                         <p>ICT infrastructure design and development</p>
                         <p>Staffing and Consultancy</p>
-                        <p> We have several projects that we have done. For your quotation and further information contact us via our mail: info@netfix.co.ke or our tel:+254 770 222333  </p>
+                        <p> We have several projects that we have done. For your quotation and further information contact us via our mail: info@netfix.co.ke or our tel:+254 770 222333 </p>
 
                         <!--<a href="#" class="hover-btn-new"><span>Learn More</span></a>-->
                     </div>
@@ -286,7 +303,9 @@
                     <div class="message-box">
                         <h2>CUSTOMER CARE SERVICES</h2>
 
-                        <p><large> Netfix Telecommunications has active and supportive customer cares who offers 24/7 support</p>
+                        <p>
+                            <large> Netfix Telecommunications has active and supportive customer cares who offers 24/7 support
+                        </p>
 
                         <!--  <a href="#" class="hover-btn-new"><span>Learn More</span></a> -->
                     </div>
@@ -301,92 +320,7 @@
     </div>
     <!-- end section -->
 
-    <div id="testimonials" class="parallax section db parallax-off" style="background-image:url('images/parallax_04.jpg');">
-        <div class="container">
-            <div class="section-title text-center">
-                <h3>Testimonials</h3>
-                <p>Here are the views of some of our clients, feel free to inqure more about us in our social media platforms and via all our official forums </p>
-            </div>
-            <!-- end title -->
-
-            <div class="row">
-                <div class="col-md-12 col-sm-12">
-                    <div class="testi-carousel owl-carousel owl-theme">
-                        <div class="testimonial clearfix">
-                            <div class="desc">
-                                <h3><i class="fa fa-quote-left"></i> Wonderful Support!</h3>
-                                <p class="lead">They have got my project on time with the competition with a sed highly skilled, and experienced & professional team.</p>
-                            </div>
-                            <div class="testi-meta">
-                                <img src="images/testi_01.png" alt="" class="img-fluid">
-                                <h4>Musa Moyez</h4>
-                            </div>
-                            <!-- end testi-meta -->
-                        </div>
-                        <!-- end testimonial -->
-
-                        <div class="testimonial clearfix">
-                            <div class="desc">
-                                <h3><i class="fa fa-quote-left"></i> Awesome Services!</h3>
-                                <p class="lead">Explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you completed.</p>
-                            </div>
-                            <div class="testi-meta">
-                                <img src="images/testi_02.png" alt="" class="img-rounded">
-                                <h4>Maina Edward</h4>
-                            </div>
-                            <!-- end testi-meta -->
-                        </div>
-                        <!-- end testimonial -->
-
-                        <div class="testimonial clearfix">
-                            <div class="desc">
-                                <h3><i class="fa fa-quote-left"></i> Great & Talented Team!</h3>
-                                <p class="lead">The master-builder of human happines no one rejects, dislikes avoids pleasure itself, because it is very pursue pleasure. </p>
-                            </div>
-                            <div class="testi-meta">
-                                <img src="images/testi_03.png" alt="" class="img-fluid ">
-                                <h4>Niko Makoni</h4>
-                            </div>
-                            <!-- end testi-meta -->
-                        </div>
-                        <!-- end testimonial -->
-                        <div class="testimonial clearfix">
-                            <div class="desc">
-                                <h3><i class="fa fa-quote-left"></i> Good Time Managers</h3>
-                                <p class="lead">They have got my project on time with the competition with a sed highly skilled, and experienced & professional team.</p>
-                            </div>
-                            <div class="testi-meta">
-                                <img src="images/testi_05.png" alt="" class="img-fluid">
-                                <h4>Soud Mohamoud</h4>
-                            </div>
-                            <!-- end testi-meta -->
-                        </div>
-                        <!-- end testimonial -->
-
-                        <div class="testimonial clearfix">
-                            <div class="desc">
-                                <h3><i class="fa fa-quote-left"></i> Satisfying</h3>
-                                <p class="lead">Explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you completed.</p>
-                            </div>
-                            <div class="testi-meta">
-                                <img src="images/testi_06.png" alt="" class="img-fluid">
-                                <h4>Simon Kaniu</h4>
-                            </div>
-                            <!-- end testi-meta -->
-                        </div>
-                        <!-- end testimonial -->
-
-                        <div class="testimonial clearfix">
-                            <div class="desc">
-                                <h3><i class="fa fa-quote-left"></i> Great & Talented Team!</h3>
-                                <p class="lead">The master-builder of human happines no one rejects, dislikes avoids pleasure itself, because it is very pursue pleasure. </p>
-                            </div>
-                            <div class="testi-meta">
-                                <img src="images/testi_04.png" alt="" class="img-fluid">
-                                <h4>Kennedy Wabuge</h4>
-                            </div>
-                            <!-- end testi-meta -->
-                        </div>
+    <?php include "testimonials.php"; ?>
                         <!-- end testimonial -->
                     </div>
                     <!-- end carousel -->
@@ -428,13 +362,14 @@
     <!-- end section -->
 
 
-       <?php include "inc/footer.php"; ?>
+    <?php include "inc/footer.php"; ?>
 
-	    <a href="#" id="scroll-to-top" class="dmtop global-radius"><i class="fa fa-angle-up"></i></a>
+    <a href="#" id="scroll-to-top" class="dmtop global-radius"><i class="fa fa-angle-up"></i></a>
 
-	    <!-- ALL JS FILES -->
-	    <script src="js/all.js"></script>
-	    <!-- ALL PLUGINS -->
-	    <script src="js/custom.js"></script>
-	</body>
+    <!-- ALL JS FILES -->
+    <script src="js/all.js"></script>
+    <!-- ALL PLUGINS -->
+    <script src="js/custom.js"></script>
+</body>
+
 </html>
