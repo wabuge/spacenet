@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<?php include 'css/error.css'; ?>
 <html>
 <head>
 	<title>Error 404 | Page Not Found</title>
@@ -16,7 +17,6 @@
     <button>You can go now!</button>
   </main>
 </div>
-<?php include 'css/error.css'; ?>
 	<p>The requested page cannot be found</p>
 
 </body>
