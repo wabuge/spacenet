@@ -88,7 +88,7 @@
 
     <div class="all-title-box">
         <div class="container text-center">
-            <h1>Contact Us<span class="m_1">Email: info@Spacenet.co.ke, Tel:+254 770 222333</span></h1>
+            <h1>Contact Us<span class="m_1">Email: info@Spacenet.co.ke, Tel:+254 780111000</span></h1>
         </div>
     </div>
 

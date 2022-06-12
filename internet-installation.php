@@ -111,7 +111,7 @@
                         <p>Dedicated</p>
                         <P>Unlimited</P>
                         <p>Installation fee : Ksh 2000</p>
-                        <p> Monthly fee: Ksh 1500
+                        <p> Monthly fee: Ksh 2500
                             <small class="readmore">
                                 <a href="contact-us.php">Click Here for Quotation</a>
                             </small>
@@ -129,7 +129,7 @@
                         <p>Dedicated</p>
                         <P>Unlimited</P>
                         <p>Installation fee : Ksh 1000</p>
-                        <p> Monthly fee: Ksh 2500
+                        <p> Monthly fee: Ksh 3500
                             <small class="readmore">
                                 <a href="contact-us.php">Click Here for Quotation</a>
                             </small>
@@ -147,7 +147,7 @@
                         <p>Dedicated</p>
                         <P>Unlimited</P>
                         <p>Installation fee : Ksh 1000</p>
-                        <p> Monthly fee: Ksh 4500
+                        <p> Monthly fee: Ksh 5500
                             <small class="readmore">
                                 <a href="contact-us.php">Click Here for Quotation</a></small>
                         </p>

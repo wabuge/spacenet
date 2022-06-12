@@ -7,7 +7,7 @@
 		                        <div class="widget-title">
 		                            <h3>About US</h3>
 		                        </div>
-		                        <p> Netfix Telecommunications LTD is currently operating within Coastal KENYA, We offer fast , reliable internet to our clients.</p>
+		                        <p> Spacene Telecommunications LTD is currently operating within Coastal KENYA, We offer fast , reliable internet to our clients.</p>
 		                        <p>Our Engineers are highly skilled , efficient and good time managers.</p>
 		                    </div>
 		                    <!-- end clearfix -->
@@ -40,10 +40,10 @@
 		                        </div>
 
 		                        <ul class="footer-links">
-		                            <li><a href="mailto:#">info@netfix.co.ke</a></li>
-		                            <li><a href="#">www.netfix.co.ke</a></li>
+		                            <li><a href="mailto:#">info@spacenet.co.ke</a></li>
+		                            <li><a href="#">www.spacenet.co.ke</a></li>
 		                            <li>Physical Adress: Road Mombasa KE </li>
-		                            <li>+254 770 222333</li>
+		                            <li>+254 780111000</li>
 		                        </ul>
 		                        <!-- end links -->
 		                    </div>
@@ -62,7 +62,7 @@
 		        <div class="container">
 		            <div class="footer-distributed">
 		                <div class="footer-left">
-		                    <p class="footer-company-name">All Rights Reserved. &copy; <?php echo date('Y'); ?> <a href="#">Netfix Telecommunication Ltd</a> &nbsp; Design By : <a href="https://kenoctech.com">Kenoctec Mombasa,KE</a></p>
+		                    <p class="footer-company-name">All Rights Reserved. &copy; <?php echo date('Y'); ?> <a href="#">Spacenet Telecommunication Ltd</a> &nbsp; Design By : <a href="https://kenoctech.com">Kenoctec Mombasa,KE</a></p>
 		                </div>
 
 		                <div class="footer-right">

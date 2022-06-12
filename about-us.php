@@ -119,7 +119,7 @@
                         <p>To network with Specialists and Experts in order to serve our clients better</p>
                         <p>To provide support services in management and organizational development of information systems.</p>
 
-                        <p> We have several projects that we have done. For your quotation and further information contact us via our mail: info@Spacenet.co.ke or our tel:+254 770 222333 </p>
+                        <p> We have several projects that we have done. For your quotation and further information contact us via our mail: info@Spacenet.co.ke or our tel:+254 780111000 </p>
 
                         <!--<a href="#" class="hover-btn-new"><span>Learn More</span></a>-->
                     </div>

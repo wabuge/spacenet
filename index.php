@@ -274,7 +274,7 @@
                         <p>Managed Services </p>
                         <p>ICT infrastructure design and development</p>
                         <p>Staffing and Consultancy</p>
-                        <p> We have several projects that we have done. For your quotation and further information contact us via our mail: info@Spacenet.co.ke or our tel:+254 770 222333 </p>
+                        <p> We have several projects that we have done. For your quotation and further information contact us via our mail: info@Spacenet.co.ke or our tel:+254 780111000 </p>
 
                         <!--<a href="#" class="hover-btn-new"><span>Learn More</span></a>-->
                     </div>
