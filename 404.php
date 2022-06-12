@@ -6,7 +6,9 @@
 <body>
 
 
-<link rel="stylesheet" href="css/error.css">
+<style>
+<?php include 'css/error.css'; ?>
+</style>
 <div>
   <aside><img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/4424790/Mirror.png" alt="404 Image" />
   </aside>
