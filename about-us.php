@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!-- Site Metas -->
-    <title>About Us | Netfix Telecommunications Ltd</title>
+    <title>About Us | Spacenet Telecommunications Ltd</title>
     <link rel="icon" type="image/icon" href="images/logo.svg" />
     <meta name="keywords" content="">
     <meta name="description" content="">
@@ -57,7 +57,7 @@
         <nav class="navbar navbar-expand-lg navbar-light bg-light">
             <div class="container-fluid">
                 <a class="navbar-brand" href="index.php">
-                    <img src="images/logo-hosting.svg" alt="" style="width:50px;height:50px;"><font color="white"><STRONG>Netfix Telecommunications LTD</STRONG></font>
+                    <img src="images/logo-hosting.svg" alt="" style="width:50px;height:50px;"><font color="white"><STRONG>Spacenet Telecommunications LTD</STRONG></font>
                 </a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbars-host" aria-controls="navbars-rs-food" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="icon-bar"></span>
@@ -93,7 +93,7 @@
 
     <div class="all-title-box">
         <div class="container text-center">
-            <h1>Who Are We<span class="m_1"> NetFix Telecommunication LTD is a tech firm currently based in Kenya. We offer diffrent variaty of services in all kinds of business and home environment .</span></h1>
+            <h1>Who Are We<span class="m_1"> Spacenet Telecommunication LTD is a tech firm currently based in Kenya. We offer diffrent variaty of services in all kinds of business and home environment .</span></h1>
         </div>
     </div>
 
@@ -102,7 +102,7 @@
             <div class="section-title row text-center">
                 <div class="col-md-8 offset-md-2">
                     <h3>Who Are We</h3>
-                    <p class="lead"><small>Netfix Telecommunications is a leading ICT Company Based in Kenya providing specialized Integrated ICT Business Solutions and Services to the growing market. We specialize in providing innovative and cost-effective ICT solutions to our clients’ business and operational challenges. Our team of professionals provides a full range of services including ICT staffing and consulting, ICT infrastructure design and development, Project management and general contractors, High speed internet supply, Systems integration,CCTV security cameras installation, website design, Apps development and managed services and custom development services to clients across the country.</small></p>
+                    <p class="lead"><small>Spacenet Telecommunications is a leading ICT Company Based in Kenya providing specialized Integrated ICT Business Solutions and Services to the growing market. We specialize in providing innovative and cost-effective ICT solutions to our clients’ business and operational challenges. Our team of professionals provides a full range of services including ICT staffing and consulting, ICT infrastructure design and development, Project management and general contractors, High speed internet supply, Systems integration,CCTV security cameras installation, website design, Apps development and managed services and custom development services to clients across the country.</small></p>
                 </div>
             </div>
             <!-- end title -->
@@ -111,7 +111,7 @@
                 <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12">
                     <div class="message-box">
                         <h4>
-                            <font color="green"> NetFix Telecommunication LTD</font>
+                            <font color="green"> Spacenet Telecommunication LTD</font>
                         </h4>
                         <h2>OUR OBJECTIVES</h2>
                         <p>We have a Technical team which is rich of active Engineers and Technicians who are skilled in there roles.Our Major Objectives include:</p>
@@ -119,7 +119,7 @@
                         <p>To network with Specialists and Experts in order to serve our clients better</p>
                         <p>To provide support services in management and organizational development of information systems.</p>
 
-                        <p> We have several projects that we have done. For your quotation and further information contact us via our mail: info@netfix.co.ke or our tel:+254 770 222333 </p>
+                        <p> We have several projects that we have done. For your quotation and further information contact us via our mail: info@Spacenet.co.ke or our tel:+254 770 222333 </p>
 
                         <!--<a href="#" class="hover-btn-new"><span>Learn More</span></a>-->
                     </div>
@@ -165,7 +165,7 @@
                 <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12">
                     <div class="message-box">
                         <h4>
-                            <font color="green"> NetFix Telecommunication LTD</font>
+                            <font color="green"> Spacenet Telecommunication LTD</font>
                         </h4>
                         <h2>OUR AIM</h2>
                         <p>To assist our clients improves their efficiency and effectiveness through improved use of ICT resources, diverse ICT solutions for enhanced productivity and performance.</p>

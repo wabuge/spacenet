@@ -9,7 +9,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <!-- Site Metas -->
-<title>Telecommunication Services | Netfix Telecommunications LTD</title>
+<title>Telecommunication Services | Spacenet Telecommunications LTD</title>
 <link rel="icon" type="image/icon" href="images/logo.svg" />
 <meta name="keywords" content="">
 <meta name="description" content="">
@@ -59,7 +59,7 @@
         <nav class="navbar navbar-expand-lg navbar-light bg-light">
             <div class="container-fluid">
                 <a class="navbar-brand" href="home.html">
-                    <img src="images/logo-hosting.svg" alt="" style="width:50px;height:50px;"> <font color="white"><STRONG>Netfix Telecommunications LTD</STRONG></font></a>
+                    <img src="images/logo-hosting.svg" alt="" style="width:50px;height:50px;"> <font color="white"><STRONG>Spacenet Telecommunications LTD</STRONG></font></a>
                     
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbars-host" aria-controls="navbars-rs-food" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="icon-bar"></span>
@@ -95,7 +95,7 @@
 
     <div class="all-title-box">
         <div class="container text-center">
-            <h1>BTS CONSTRUCTION AND MAINTENANCE<span class="m_1"> Netfix Telecommunications LTD offers first hand delivery of construction and commisioning of telecommunications towers.</span></h1>
+            <h1>BTS CONSTRUCTION AND MAINTENANCE<span class="m_1"> Spacenet Telecommunications LTD offers first hand delivery of construction and commisioning of telecommunications towers.</span></h1>
         </div>
     </div>
 

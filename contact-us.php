@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>Contact Us | Netfix Telecommunications LTD</title>
+        <title>Contact Us | Spacenet Telecommunications LTD</title>
         <link rel="icon" type="image/icon" href="images/logo.svg" />
         <meta name="keywords" content="">
         <meta name="description" content="">
@@ -52,7 +52,7 @@
         <nav class="navbar navbar-expand-lg navbar-light bg-light">
             <div class="container-fluid">
                 <a class="navbar-brand" href="home.html">
-                    <img src="images/logo-hosting.svg" alt="" style="width:50px;height:50px;"><font color="white"><STRONG>Netfix Telecommunications LTD</STRONG></font>
+                    <img src="images/logo-hosting.svg" alt="" style="width:50px;height:50px;"><font color="white"><STRONG>Spacenet Telecommunications LTD</STRONG></font>
                 </a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbars-host" aria-controls="navbars-rs-food" aria-expanded="false" aria-label="Toggle navigation">
 					<span class="icon-bar"></span>
@@ -88,7 +88,7 @@
 
     <div class="all-title-box">
         <div class="container text-center">
-            <h1>Contact Us<span class="m_1">Email: info@netfix.co.ke, Tel:+254 770 222333</span></h1>
+            <h1>Contact Us<span class="m_1">Email: info@Spacenet.co.ke, Tel:+254 770 222333</span></h1>
         </div>
     </div>
 

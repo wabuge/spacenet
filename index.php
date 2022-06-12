@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Netfix Telecommunications LTD</title>
+    <title>Spacenet Telecommunications LTD</title>
     <link rel="icon" type="image/icon" href="images/logo.svg" />
     <meta name="keywords" content="">
     <meta name="description" content="">
@@ -53,7 +53,7 @@
         <nav class="navbar navbar-expand-lg navbar-light bg-light">
             <div class="container-fluid">
                 <a class="navbar-brand" href="index">
-                    <img src="images/logo-hosting.svg" alt="" style="width:50px;height:50px;"><font color="white"><STRONG>Netfix Telecommunications LTD</STRONG></font>
+                    <img src="images/logo-hosting.svg" alt="" style="width:50px;height:50px;"><font color="white"><STRONG>Spacenet Telecommunications LTD</STRONG></font>
                 </a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbars-host" aria-controls="navbars-rs-food" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="icon-bar"></span>
@@ -103,8 +103,8 @@
                             <div class="row">
                                 <div class="col-md-12 col-sm-12 text-right">
                                     <div class="big-tagline">
-                                        <h2><strong>NetFix Communcations </strong> LTD</h2>
-                                        <p class="lead"><small>Netfix Telecommunications a leading ICT Company Based in Kenya providing specialized Integrated ICT Business Solutions and Services to the growing market. </small></p>
+                                        <h2><strong>Spacenet Telecommunication </strong> LTD</h2>
+                                        <p class="lead"><small>Spacenet Telecommunications LTD a leading ICT Company Based in Kenya providing specialized Integrated ICT Business Solutions and Services to the growing market. </small></p>
                                         <a href="telecommunication-services.php" class="btn btn-info"><span>
                                                 <font color="white">Our Solutions</font>
                                             </span></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -253,7 +253,7 @@
             <div class="section-title row text-center">
                 <div class="col-md-8 offset-md-2">
                     <h3>Who Are We</h3>
-                    <p class="lead">Welcome to Netfix Telecommunications LTD. We offer fast and realible internet services to all our clients.</p>
+                    <p class="lead">Welcome to Spacenet Telecommunications LTD. We offer fast and realible internet services to all our clients.</p>
                 </div>
             </div>
             <!-- end title -->
@@ -262,7 +262,7 @@
                 <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12">
                     <div class="message-box">
                         <h4>
-                            <font color=" green">NetFix Telecommunication LTD</font>
+                            <font color=" green">Spacenet Telecommunication LTD</font>
                         </h4>
                         <h2>WHO ARE WE</h2>
                         <p>We have a Technical team which is rich of active Engineers and Technicians who are skilled in there roles.</p>
@@ -274,7 +274,7 @@
                         <p>Managed Services </p>
                         <p>ICT infrastructure design and development</p>
                         <p>Staffing and Consultancy</p>
-                        <p> We have several projects that we have done. For your quotation and further information contact us via our mail: info@netfix.co.ke or our tel:+254 770 222333 </p>
+                        <p> We have several projects that we have done. For your quotation and further information contact us via our mail: info@Spacenet.co.ke or our tel:+254 770 222333 </p>
 
                         <!--<a href="#" class="hover-btn-new"><span>Learn More</span></a>-->
                     </div>
@@ -304,7 +304,7 @@
                         <h2>CUSTOMER CARE SERVICES</h2>
 
                         <p>
-                            <large> Netfix Telecommunications has active and supportive customer cares who offers 24/7 support
+                            <large> Spacenet Telecommunications has active and supportive customer cares who offers 24/7 support
                         </p>
 
                         <!--  <a href="#" class="hover-btn-new"><span>Learn More</span></a> -->
